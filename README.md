@@ -8,33 +8,30 @@
     Most importantly, airlines consider critical factors that fulfills customer flight experience with necessary services.
 
 1 A. Company Introduction
-
-    Due to fierce competition in the airline industry, the airline company needs to focus on the passenger’s experience and satisfaction.
-    Customer feedback, in particular, is critical since it is an outcome measurement for business performance.
-    So, they need to analyze the data of the passenger's travel history.
-    One of the key measurements in this process is whether the passenger feels satisfied or not.
+Due to fierce competition in the airline industry, the airline company needs to focus on the passenger’s experience and satisfaction.
+Customer feedback, in particular, is critical since it is an outcome measurement for business performance.
+So, to analyze the data of the passenger's travel history.
+One of the key measurements in this process is whether the passenger feels satisfied or not.
 
 Current Scenario
-
-    Currently, a manual process to analyze the customer satisfaction based on the number of feedback and complaint mail that are received
+Currently, a manual process to analyze the customer satisfaction based on the number of feedback and complaint mail that are received
 
 2. Problem Statement
 
 The current process suffers from the following problems:
 
-    Analyzing the data of passengers manually and to understand whether a passenger is satisfied or not is a tedious task.
-    This process needs to be repeated every time they receive some feedback.
+Analyzing the data of passengers manually and to understand whether a passenger is satisfied or not is a tedious task.
+This process needs to be repeated every time they receive some feedback.
 
 Automate the process of predicting the passenger satisfaction based on the travel history data collected by the airline company.
 Project Deliverables
-
-    Deliverable: Predict whether the customer is satisfied or not..
-    Machine Learning Task: Classification
-    Target Variable: satisfaction
+Deliverable: Predict whether the customer is satisfied or not..
+Machine Learning Task: Classification
+Target Variable: satisfaction
 
 Evaluation Metric
 
-    The model evaluation will be based on the Accuracy score.
+The model evaluation will be based on the Accuracy score.
 
 Overall Analysis:
 Here are a few things to make air passenger happy with the services
